@@ -9,3 +9,6 @@ data/output/
 data/samples/*.mp4 
 .idea/ 
 .vscode/ 
+"requirements-dev.txt" 
+"venv/"  "requirements-dev.txt" 
+"venv/" 
